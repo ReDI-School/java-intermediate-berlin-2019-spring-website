@@ -20,12 +20,16 @@ Welcome to the main site of **Redi School Intermediate Java Course**. On this si
 
 - we discuss on Slack in [#19ss_j2](https://redi-school.slack.com/messages/CFE21FCTH) channel
 
+## Rules
+
+... rules?
+
 ## Teachers
 
 |   | Name        | Slack Handle         | 
 | - | ------------- |:-------------:| 
-| <img src="https://ui-avatars.com/api/?name=H+N&size=100" width="100" height="100"> | Hadeer Nabil      | [@Hnabil](https://redi-school.slack.com/messages/DCZU6R9T7) | 
-| <img src="https://ui-avatars.com/api/?name=H+L&size=100" width="100" height="100">  | Heeeun Lim      | [@Heeeun Lim](https://redi-school.slack.com/messages/DCZU6R9T7)      | 
+| <img src="/hadeer.jpg" width="100" height="100"> | Hadeer Nabil      | [@Hnabil](https://redi-school.slack.com/messages/DCZU6R9T7) | 
+| <img src="/heeun.png" width="100" height="100">  | Heeeun Lim      | [@Heeeun Lim](https://redi-school.slack.com/messages/DCZU6R9T7)      | 
 | <img src="https://pbs.twimg.com/profile_images/453170120819351552/HzuP1CoL_400x400.jpeg" width="100" height="100"> | Maciej Walkowiak | [@maciejwalkowiak](https://redi-school.slack.com/messages/DBV8VDBGT)      |
-| <img src="https://ui-avatars.com/api/?name=A+P&size=100" width="100" height="100">  | Andrey Panov | [@Andrey Panov](https://redi-school.slack.com/messages/DFDP172LA) |
+| <img src="/andrey.png" width="100" height="100">  | Andrey Panov | [@Andrey Panov](https://redi-school.slack.com/messages/DFDP172LA) |
 | <img src="https://ui-avatars.com/api/?name=J+K&size=100" width="100" height="100">  | Juan | [@kreijstal](https://redi-school.slack.com/messages/DFEQLV31V)        |
