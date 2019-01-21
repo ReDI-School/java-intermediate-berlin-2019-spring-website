@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Intermediate Java Course
-heroImage: /redi.png
+# heroImage: /redi.png
 tagline: Redi School
 actionText: Learn →
 actionLink: /lessons/01-intro
@@ -14,9 +14,9 @@ Welcome to the main site of **Redi School Intermediate Java Course**. On this si
 
 ## Course Organisation
 
-- we meet every Monday and Wendesday, 7-9 PM
+- we meet every Monday and Thursday, 7-9 PM
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Digitales%20Lernzentrum%20Berlin%20Kemperpl.%201%2C%2010785%20Berlin&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div></div>
+<div class="mapouter"><div class="gmap_canvas"><iframe style="width:100%" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Digitales%20Lernzentrum%20Berlin%20Kemperpl.%201%2C%2010785%20Berlin&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div></div>
 
 - we discuss on Slack in [#19ss_j2](https://redi-school.slack.com/messages/CFE21FCTH) channel
 

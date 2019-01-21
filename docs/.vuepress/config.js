@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'Redi School Intermediate Java Course',
+  title: 'Intermediate Java',
   description: 'Just playing around',
   themeConfig: {
-    title: 'Redi School Intermediate Java Course',
+    title: 'Redi School Intermediate Java',
     sidebar: {'/lessons': [
       '/lessons/01-intro',
       '/lessons/02-git'
