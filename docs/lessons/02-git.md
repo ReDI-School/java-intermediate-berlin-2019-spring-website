@@ -1,5 +1,7 @@
 # 02 - Introduction to Git
 
+**Leading teacher:** Andrey
+
 ## Goals
 
 Learn basics of Git & Github in order to be able to send homeworks and build your online portfolio.
