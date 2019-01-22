@@ -4,23 +4,16 @@
 
 ## Goals
 
-Get familiar with schedule, attendance, teachers, tools
-Get to know each other
-Course introduction
-Install required software
-Learn how to create a new project with IntelliJ
-Do some basic Java exercises!
-
-
-- get familiar with schedule, attendance tracking, teachers, rules, tools
-- get to know each other
-- install all tools we need - [Intellij IDEA CE](https://www.jetbrains.com/idea/download/), Java, Git
-- learn how to create a new project in Intellij IDEA
-- Java basics recap
+- Get familiar with schedule, attendance, teachers, tools
+- Get to know each other
+- Course introduction
+- Install required software
+- Learn how to create a new project with IntelliJ
+- Do some basic Java exercises!
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDkYSGHxcI4nhyfOVz_pYvrJesky7D28KSul5NqcKpqERPR14867LO0C580-b9nu6BNP--oieJW3q3/embed?start=false&loop=false&delayms=3000" frameborder="0" style="max-width:100%; width:100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vTDkYSGHxcI4nhyfOVz_pYvrJesky7D28KSul5NqcKpqERPR14867LO0C580-b9nu6BNP--oieJW3q3/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
 ## Java Basics Recap
 
