@@ -61,6 +61,20 @@ Write a method that for X and Y given by arguments prints square of each number 
 … 
 ```
 
+Solution:
+
+<YouTube src="https://www.youtube.com/embed/uif6eBb-cIA"></YouTube>
+
+<Solution>
+```java
+private static void squares(int x, int y) {
+    for (int i = x; i < y; i++) {
+        System.out.println(i + " - " + (i * i));
+    }
+}
+```
+</Solution>
+
 ### Exercise 2
 
 In Polish language there is a rule that if name ends with “a” it’s a female name, if not it’s a male name.
@@ -73,15 +87,68 @@ For example:
 Krysian - male
 ```
 
+Solution:
+
+<YouTube src="https://www.youtube.com/embed/6eePtMUYTSo"></YouTube>
+
+<Solution>
+```java
+private static void polishNames(String name) {
+    if (name.endsWith("a")) {
+        System.out.println(name + " is a girl");
+    } else {
+        System.out.println(name + " is a boy");
+    }
+}
+```
+</Solution>
+
 ### Exercise 3
 
 Write a method that for X and Y, for each number between X and Y writes a number and if its odd or even.
+
+Solution:
+
+<YouTube src="https://www.youtube.com/embed/o1dw0_8PnzM"></YouTube>
+
+<Solution>
+```java
+private static void evenOrOdd(int x, int y) {
+    for (int i = x; i < y; i++) {
+        String isEvenOrOdd = i % 2 == 0 ? "even" : "odd";
+        System.out.println(i + " is " + isEvenOrOdd);
+    }
+}
+```
+</Solution>
 
 ### Exercise 4
 
 Write a method that for age given by parameter prints if is underage (and then how many years left until becomes an adult), or adult, if can buy a beer.
 
 In Germany you become an adult at 18 but you can buy a beer already when you’re 16.
+
+Solution:
+
+<YouTube src="https://www.youtube.com/embed/3poW4H_4I4w"></YouTube>
+
+<Solution>
+```java
+private static void beer(int age) {
+    int yearsUntilAdult = 18 - age;
+    if (age > 18) {
+        System.out.println("An adult, can buy a beer");
+    } else if (age > 16) {
+        System.out.println("Not an adult, but can buy a beer.");
+    } else {
+        System.out.println("Underage, cannot buy a beer");
+    }
+    if (yearsUntilAdult > 0) {
+        System.out.println("He will be an adult in  " + yearsUntilAdult + " years.");
+    }
+}
+```
+</Solution>
 
 ### Exercise 5
 
@@ -90,6 +157,18 @@ Each freelancer has to pay 300 EUR insurance and income tax is flat 19%.
 
 For example, if freelancer made 5000 EUR, in his pocket stays 4700 * 81% = 3807 EUR. 
 
+Solution:
+
+<YouTube src="https://www.youtube.com/embed/xbwQbiZES44"></YouTube>
+
+<Solution>
+```java
+private static void inPocket(int income) {
+    int profit = income - 300;
+    System.out.println("In pocket stays " + (int) (profit * 0.81));
+}
+```
+</Solution>
 
 ## Homework
 
