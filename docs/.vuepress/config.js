@@ -10,8 +10,8 @@ module.exports = {
       '/lessons/04-data-structures-arrays',
       '/lessons/05-data-structures-lists'
     ]},
-    sidebarDepth: 0,
-    displayAllHeaders: true,
+    sidebarDepth: 1,
+    displayAllHeaders: 0,
     nav: [
       { text: "Home", link: "/" },
       { text: "Lessons", link: "/lessons/01-intro" },
