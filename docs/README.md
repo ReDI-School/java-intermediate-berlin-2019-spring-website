@@ -14,7 +14,7 @@ Welcome to the main site of **Redi School Intermediate Java Course**. On this si
 
 ## Course Goal
 
-After finishing this course, you will have very good understanding of Java language and Object Oriented Programming. You will be also introduced to practices used in real world programming - source code management using Git, using build tools like Maven, using 3rd party libraries and unit testing. If there is enough time, we will spend couple of lessons on solving algorithmic puzzles - something you may expect when going to the job interview.
+After finishing this course, you will have very good understanding of Java language, Object Oriented Programming and most common data structures. You will be also introduced to practices used in real world programming - source code management using Git, using build tools like Maven, using 3rd party libraries and unit testing. If there is enough time, we will spend couple of lessons on solving algorithmic puzzles - something you may expect when going to the job interview.
 
 Does it mean that after finishing the course you are ready to get a job? Most likely - not. You will be at the point where you can choose which Java developer path you want to follow - Android or backend - and then continue learning topics more specific to these job profiles.
 
