@@ -28,3 +28,5 @@ Learn basics of Git & Github in order to be able to send homeworks and build you
 ## Additional Resources
 
 **TBD**
+
+[1] https://www.youtube.com/watch?v=4XpnKHJAok8
