@@ -19,14 +19,12 @@ Learn basics of Git & Github in order to be able to send homeworks and build you
 
 ## Slides
 
-**TBD**
+https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
 
 ## Homework
 
-**TBD**
+Push your homework from the Lesson 1 to repository which we created.
 
 ## Additional Resources
-
-**TBD**
 
 [1] https://www.youtube.com/watch?v=4XpnKHJAok8
