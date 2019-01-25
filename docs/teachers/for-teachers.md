@@ -1,4 +1,4 @@
-# Teachers Section
+# Teachers Manual
 
 ## Team Organisation
 

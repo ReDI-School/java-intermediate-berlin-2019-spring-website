@@ -9,6 +9,11 @@ module.exports = {
       '/lessons/03-string-operations',
       '/lessons/04-data-structures-arrays',
       '/lessons/05-data-structures-lists'
+    ],
+    '/teachers': [
+      '/teachers/for-teachers',
+      '/teachers/how-to-edit-this-site',
+      '/teachers/how-to-make-a-screencast'
     ]},
     sidebarDepth: 1,
     displayAllHeaders: 0,
@@ -16,7 +21,7 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "Lessons", link: "/lessons/01-intro" },
       { text: "Extra Resources", link: "/resources"},
-      { text: "For Teachers", link: "/for-teachers"}
+      { text: "For Teachers", link: "/teachers/for-teachers"}
     ],
     lastUpdated: 'Last Updated'
   }
