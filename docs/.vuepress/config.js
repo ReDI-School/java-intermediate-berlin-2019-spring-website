@@ -8,7 +8,8 @@ module.exports = {
       '/lessons/02-git',
       '/lessons/03-string-operations',
       '/lessons/04-data-structures-arrays',
-      '/lessons/05-data-structures-lists'
+      '/lessons/05-data-structures-lists',
+      '/lessons/06-data-structures-sets'
     ],
     '/teachers': [
       '/teachers/for-teachers',
