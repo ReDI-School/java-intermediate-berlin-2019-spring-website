@@ -15,7 +15,8 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Lessons", link: "/lessons/01-intro" },
-      { text: "Extra Resources", link: "/resources"}
+      { text: "Extra Resources", link: "/resources"},
+      { text: "For Teachers", link: "/for-teachers"}
     ],
     lastUpdated: 'Last Updated'
   }
