@@ -26,7 +26,9 @@ import teachers from './data';
 export default {
     data: function() {
       return {
-          teachers: Object.values(teachers)
+          teachers: Object.values(teachers).sort(function(a,b){
+            return a.name.localeCompare(b.name);
+            })
       }
   }
 }
