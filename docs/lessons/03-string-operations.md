@@ -3,6 +3,9 @@
 <Teacher name="Heeeun"></Teacher>
 
 ## Goals
+- Confident on managing source code with Git
+- Know how to read, write, transform strings in Java
+- Optionally, know toString method in Java
 
 ## Slides
 
@@ -14,4 +17,4 @@
 
 ## Additional Resources
 
-**TBD**
+- https://www.tutorialspoint.com/java/java_strings.htm
