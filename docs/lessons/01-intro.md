@@ -1,6 +1,6 @@
 # 01 - Introduction to Intermediate Java Course
 
-**Leading teacher:** Maciej
+<Teacher name="Maciej"></Teacher>
 
 ## Goals
 

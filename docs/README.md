@@ -28,32 +28,4 @@ Does it mean that after finishing the course you are ready to get a job? Most li
 
 ## Teachers
 
-<Avatar src="/hadeer.jpg"></Avatar>
-
-**Hadeer Nabil**
-[@Hnabil](https://redi-school.slack.com/messages/DCZU6R9T7)
-
-<Avatar src="/heeun.png"></Avatar>
-
-**Heeeun Lim**
-[@Heeeun Lim](https://redi-school.slack.com/messages/DCZU6R9T7)
-
-<Avatar src="/anca.png"></Avatar>
-
-**Anca Todirica**
-[@Anca](https://redi-school.slack.com/messages/DFK02JD1P)
-
-<Avatar src="https://pbs.twimg.com/profile_images/453170120819351552/HzuP1CoL_400x400.jpeg"></Avatar>
-
-**Maciej Walkowiak**
-[@maciejwalkowiak](https://redi-school.slack.com/messages/DBV8VDBGT)
-
-<Avatar src="/andrey.png"></Avatar>
-
-**Andrey Panov**
-[@Andrey Panov](https://redi-school.slack.com/messages/DFDP172LA)
-
-<Avatar src="https://ui-avatars.com/api/?name=J+K&size=100"></Avatar>
-
-**Juan**
-[@kreijstal](https://redi-school.slack.com/messages/DFEQLV31V)
+<AllTeachers></AllTeachers>

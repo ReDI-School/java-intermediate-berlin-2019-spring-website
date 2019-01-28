@@ -1,6 +1,6 @@
 # 02 - Introduction to Git
 
-**Leading teacher:** Andrey
+<Teacher name="Andrey"></Teacher>
 
 ## Goals
 

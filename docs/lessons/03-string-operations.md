@@ -1,6 +1,6 @@
 # 03 - String Operations
 
-**Leading teacher:** Hee-eun
+<Teacher name="Heeeun"></Teacher>
 
 ## Goals
 
