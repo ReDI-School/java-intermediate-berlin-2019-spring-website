@@ -9,3 +9,7 @@
 
 - [Freelancers Show - Training](https://devchat.tv/freelancers/197-fs-training/)
 - [Freelancers Show - Building Better Training Exercises](https://devchat.tv/freelancers/253-fs-building-better-training-exercises/)
+
+## 📰 Newsletters
+
+- [Trainer Weekly](https://lerner.co.il/trainer-weekly/)
