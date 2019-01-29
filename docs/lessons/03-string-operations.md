@@ -20,4 +20,4 @@
 
 ## Additional Resources
 
-- https://www.tutorialspoint.com/java/java_strings.htm
+- [https://www.tutorialspoint.com/java/java_strings.htm](https://www.tutorialspoint.com/java/java_strings.htm)
