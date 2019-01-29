@@ -14,7 +14,8 @@ module.exports = {
     '/teachers': [
       '/teachers/for-teachers',
       '/teachers/how-to-edit-this-site',
-      '/teachers/how-to-make-a-screencast'
+      '/teachers/how-to-make-a-screencast',
+      '/teachers/how-to-teach-resources'
     ]},
     sidebarDepth: 1,
     displayAllHeaders: 0,
