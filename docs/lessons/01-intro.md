@@ -202,6 +202,38 @@ public class TreeExercise {
 }
 ```
 
+<Solution>
+```java
+private static void tree(int height) {
+    System.out.println("I");
+    for (int i = 2; i < height; i++) {
+        for (int j = 0; j < i; j++) {
+            System.out.print(j % 2 == 0 ? "X" : "Y");
+        }
+        System.out.println();
+    }
+    System.out.println("M");
+}
+```
+</Solution>
+
+Thx to **Elena** - even better - way way more optimised solution:
+
+<Solution>
+```java
+public static void tree(int a) {
+    System.out.println("I");
+    String step = "X";
+
+    for (int i = 2; i < a; i++) {
+        step = i%2 == 0 ? step + "Y" : step + "X";
+        System.out.println(step);
+    }
+    System.out.println("M");
+}
+```
+</Solution>
+
 
 ## Additional Resources
 
