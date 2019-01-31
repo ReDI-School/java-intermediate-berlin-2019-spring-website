@@ -10,7 +10,7 @@
 
 ## Slides
 
-<GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vRnHBZgt8y3MnXW_JkVxhsHGpcwr21p5pxLRVOir_YWV1scQduO4CarBnRBCRl0iEISd-NfcVwepNYL/pub?start=false&loop=false&delayms=3000"></GoogleSlides>
+<GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vQ5zVehWgnPlOgdZCoZZw_svbXD80m_SKqcuxJLBB7cD7J5q6SnfZdYzsT058-iUPA9YB-rOEuxgV3b/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
 ## Homework
 
