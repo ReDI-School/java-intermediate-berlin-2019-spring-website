@@ -2,7 +2,7 @@
 
 ## Computer Science
 
-- [Crash course CompSci]{https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo}
+- [Crash course CompSci](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Base CS - Exploring the basics of computer science, every Monday, for a year.](https://medium.com/basecs)
 - [Base CS Podcast](https://www.codenewbie.org/basecs)
 - [in one lesson](https://www.youtube.com/user/InOneLesson/videos)
