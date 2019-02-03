@@ -29,6 +29,7 @@
 - [Java Language Specification](https://docs.oracle.com/javase/specs/jls/se11/html/index.html)
 - [Java API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 - [Java GenericsFAQ](http://www.angelikalanger.com/GenericsFAQ/FAQSections/)
+- [Java™ in a Nutshell: A Deskop Quick Reference.](https://docstore.mik.ua/orelly/java-ent/jnut/index.htm)
 
 ## Exercises
 
