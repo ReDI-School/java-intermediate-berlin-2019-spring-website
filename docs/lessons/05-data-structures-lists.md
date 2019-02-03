@@ -8,7 +8,7 @@
 
 ## Slides
 
-<GoogleSlides src="https://docs.google.com/presentation/d/1wWh58iaSvowQpgCZ6S_GI1uW9j_B2rSuaPjV1xIraAA/present?token=AC4w5VhfqC0E2FcYORyh5Yl_m6qA97I3aA%3A1549228474140&includes_info_params=1#slide=id.p"></GoogleSlides>
+<GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vSr6F6309N3wBgzfe9wGyP-vbW7q794IycXIBDTG0yUwONrLYB3Z3S0EoDnv3-B4D0vOqb8pFLU6Zgp/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
 ## Homework
 
