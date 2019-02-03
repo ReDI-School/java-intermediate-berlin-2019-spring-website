@@ -16,7 +16,7 @@
 
 ## Additional Resources
 
-https://www.geeksforgeeks.org/linked-list-set-1-introduction/
-https://www.geeksforgeeks.org/doubly-linked-list/
-https://www.geeksforgeeks.org/circular-linked-list/
-https://users.csc.calpoly.edu/~jdalbey/103/Demo/LinkedListExercises/
+- https://www.geeksforgeeks.org/linked-list-set-1-introduction/
+- https://www.geeksforgeeks.org/doubly-linked-list/
+- https://www.geeksforgeeks.org/circular-linked-list/
+- https://users.csc.calpoly.edu/~jdalbey/103/Demo/LinkedListExercises/
