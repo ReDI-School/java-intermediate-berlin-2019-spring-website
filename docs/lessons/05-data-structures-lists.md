@@ -3,15 +3,36 @@
 **Leading teacher:** Anca
 
 ## Goals
+- Understand the concept of lists in programming
+- Make exercises with Java implementation of lists
 
 ## Slides
 
-**TBD**
+<GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vSr6F6309N3wBgzfe9wGyP-vbW7q794IycXIBDTG0yUwONrLYB3Z3S0EoDnv3-B4D0vOqb8pFLU6Zgp/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
 ## Homework
+1. Implement a Java program that interleaves 2 lists in a third list.
+For example, given listA = {1,2,3} and listB={4,5,6}, listC should be listC={1,4,2,5,3,6}
 
-**TBD**
+2. Given a list, print in the console the sorted list. Then, reverse the list and print it to the console.
+
+Example:  given the following list
+list = {5, 2, 10, 6, 8, 3}
+
+The sorted list will be:
+sotedList = {2, 3, 5, 6, 8, 10}
+
+The reversed list will be:
+reveresedList = {10, 8, 6, 5, 3, 2}
+
+
+*Advanced*
+If you did OOP before, you can try to do some exercises with an actual implementation of the list. 
+- https://users.csc.calpoly.edu/~jdalbey/103/Demo/LinkedListExercises/
 
 ## Additional Resources
+- https://www.youtube.com/watch?v=wTlw7fNcO-0
+- https://www.geeksforgeeks.org/linked-list-set-1-introduction/
+- https://www.geeksforgeeks.org/doubly-linked-list/
+- https://www.geeksforgeeks.org/circular-linked-list/
 
-**TBD**
