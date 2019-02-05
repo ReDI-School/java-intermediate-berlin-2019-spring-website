@@ -1,6 +1,6 @@
 # 05 - Data Structures: Sets
 
-**Leading teacher:** Maciej
+<Teacher name="Anca"></Teacher>
 
 ## Goals
 
@@ -10,11 +10,37 @@
 - get familiar with two implementations coming in JDK: `HashSet`, `TreeSet`
 - get familiar with the most commonly used methods on sets
 
+## Tips
+
+### How to generate a random number?
+
+To return a random number from range between `0` and `50` (exclusive):
+
+```java
+
+Random r = new Random();
+int randomNumber = r.nextInt(50);
+```
+
+
 ## Slides
 
 **TBD**
 
 ## Exercises
+
+### Exercise 1
+
+Write a static method `randomSet` that will return an `HashSet` containing collection of `n` unique random numbers in range 0-100.
+
+```java
+
+HashSet<String> randomSet(int n) {
+    ...
+}
+```
+
+Where `n` is a number of random elements in set.
 
 ### Exercise 1
 
@@ -37,9 +63,9 @@ Set<String> union(Set<String> x, Set<String> y) {
 }
 ```
 
-## Homework
+## Exercise 3
 
-**TBD**
+How to create a `TreeSet` that will maintain integer number from highest to lowest number.
 
 ## Additional Resources
 
