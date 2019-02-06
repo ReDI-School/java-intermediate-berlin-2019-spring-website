@@ -7,6 +7,8 @@
 
 ## Discussions
 
+- [Music during lectures: Will students learn better?](https://www.sciencedirect.com/science/article/pii/S1041608011001762)
+- [Lectures Aren't Just Boring, They're Ineffective, Too.](https://www.reddit.com/r/science/comments/25g077/lectures_arent_just_boring_theyre_ineffective_too/)
 - [Where Do the Failed 0.1% Go? (2015)](https://news.ycombinator.com/item?id=13145853) 
 
 ## 🎧 Podcasts 
