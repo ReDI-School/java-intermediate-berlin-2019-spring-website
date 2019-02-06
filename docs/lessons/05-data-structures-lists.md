@@ -10,11 +10,19 @@
 
 <GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vSr6F6309N3wBgzfe9wGyP-vbW7q794IycXIBDTG0yUwONrLYB3Z3S0EoDnv3-B4D0vOqb8pFLU6Zgp/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> update lists
 ## Exercises
 
 ### Exercise 1
 Build a train using ArrayList and LinkedList. Create an ArrayList that holds the waggons, then create a LinkedList that contains the waggons and has also a locomotive. Print the train in the console.
 
+<<<<<<< HEAD
+=======
+<Solution>
+>>>>>>> update lists
 ```java
 public static void main(String[] args) {
         ArrayList<String> waggons = new ArrayList<String>(Arrays.asList("wagon1", "wagon2", "wagon3"));
@@ -26,12 +34,25 @@ public static void main(String[] args) {
         for (String node : train) {
             System.out.print(node + " ");
         }
+<<<<<<< HEAD
 ```
 
 ### Exercise 2
 Write a method that returns the Fibonacci sequence. The size of the sequence to be generated should be given as a parameter.
 ```java
    public static ArrayList<Integer> fibonacci(int numberOfItems) {
+=======
+    }
+```
+</Solution>
+
+### Exercise 2
+Write a method that returns the Fibonacci sequence. The size of the sequence to be generated should be given as a parameter.
+
+<Solution>
+```java
+   public static ArrayList<Integer> getFibonacciSequence(int numberOfItems) {
+>>>>>>> update lists
         ArrayList<Integer> fibonacci = new ArrayList<>(Arrays.asList(1,1));
 
         for (int i = 2; i < numberOfItems; i++) {
@@ -41,11 +62,20 @@ Write a method that returns the Fibonacci sequence. The size of the sequence to 
         return fibonacci;
     }
 ```
+<<<<<<< HEAD
+=======
+</Solution>
+>>>>>>> update lists
 
 
 ### Exercise 3
 Create a method that checks if 2 lists have the same items.
 If the 2 lists have the same items, print in the console “The lists are identical” otherwise print “The lists are different”.
+<<<<<<< HEAD
+=======
+
+<Solution>
+>>>>>>> update lists
 ```java
     public static boolean areListsIdentical(ArrayList<String> list1, ArrayList<String> list2) {
         if (list1.size() != list2.size()) {
@@ -59,6 +89,10 @@ If the 2 lists have the same items, print in the console “The lists are identi
         return true;
     }
 ```
+<<<<<<< HEAD
+=======
+</Solution>
+>>>>>>> update lists
 
 ### Exercise 4
 Create a method that generates a matrix using Lists. The rows will have ascending sizes.
@@ -69,6 +103,10 @@ i.e. for a matrix of size 3, the matrix should look like this:
 0 0 
 0 0 0 
 
+<<<<<<< HEAD
+=======
+<Solution>
+>>>>>>> update lists
 ```java
  public static void main(String[] args) {
         ArrayList<ArrayList<Integer>> matrix = generateMatrix(5);
@@ -98,9 +136,15 @@ i.e. for a matrix of size 3, the matrix should look like this:
             matrix.add(row);
         }
         return matrix;
+<<<<<<< HEAD
     }
 ```
 
+=======
+	}
+```
+</Solution>
+>>>>>>> update lists
 
 
 ## Homework
