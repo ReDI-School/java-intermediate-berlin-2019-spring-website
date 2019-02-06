@@ -41,3 +41,5 @@
 ## Ideas
 
 - [Open source ideas](https://github.com/open-source-ideas/open-source-ideas) 
+- [Rough Idea](https://roughidea.io/)
+- [40 projects ideas](https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
