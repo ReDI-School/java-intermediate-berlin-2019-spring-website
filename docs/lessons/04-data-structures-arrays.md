@@ -1,6 +1,6 @@
 # 04 - Data Structures: Arrays
 
-**Leading teacher:** Hadeer
+<Teacher name="Hadeer"></Teacher>
 
 ## Goals
 - Understanding The Data Structure (Array)

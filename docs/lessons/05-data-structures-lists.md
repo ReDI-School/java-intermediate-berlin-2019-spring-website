@@ -1,6 +1,6 @@
 # 05 - Data Structures: Lists
 
-**Leading teacher:** Anca
+<Teacher name="Anca"></Teacher>
 
 ## Goals
 - Understand the concept of lists in programming
@@ -25,14 +25,14 @@ sotedList = {2, 3, 5, 6, 8, 10}
 The reversed list will be:
 reveresedList = {10, 8, 6, 5, 3, 2}
 
+**Advanced**
 
-*Advanced*
 If you did OOP before, you can try to do some exercises with an actual implementation of the list. 
-- https://users.csc.calpoly.edu/~jdalbey/103/Demo/LinkedListExercises/
+- [https://users.csc.calpoly.edu/~jdalbey/103/Demo/LinkedListExercises/](https://users.csc.calpoly.edu/~jdalbey/103/Demo/LinkedListExercises/)
 
 ## Additional Resources
-- https://www.youtube.com/watch?v=wTlw7fNcO-0
-- https://www.geeksforgeeks.org/linked-list-set-1-introduction/
-- https://www.geeksforgeeks.org/doubly-linked-list/
-- https://www.geeksforgeeks.org/circular-linked-list/
+- [📺 The Fibonacci Sequence: Nature's Code](https://www.youtube.com/watch?v=wTlw7fNcO-0)
+- [📖 Linked List | Set 1 (Introduction)](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+- [📖 Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
+- [📖 Circular Linked List | Set 1 (Introduction and Applications)](https://www.geeksforgeeks.org/circular-linked-list/)
 
