@@ -26,12 +26,14 @@ public static void main(String[] args) {
         for (String node : train) {
             System.out.print(node + " ");
         }
+}
 ```
 
 ### Exercise 2
 Write a method that returns the Fibonacci sequence. The size of the sequence to be generated should be given as a parameter.
+
 ```java
-   public static ArrayList<Integer> fibonacci(int numberOfItems) {
+   public static ArrayList<Integer> getFibonacciSequence(int numberOfItems) {
         ArrayList<Integer> fibonacci = new ArrayList<>(Arrays.asList(1,1));
 
         for (int i = 2; i < numberOfItems; i++) {
@@ -42,10 +44,10 @@ Write a method that returns the Fibonacci sequence. The size of the sequence to 
     }
 ```
 
-
 ### Exercise 3
 Create a method that checks if 2 lists have the same items.
 If the 2 lists have the same items, print in the console “The lists are identical” otherwise print “The lists are different”.
+
 ```java
     public static boolean areListsIdentical(ArrayList<String> list1, ArrayList<String> list2) {
         if (list1.size() != list2.size()) {
@@ -65,9 +67,9 @@ Create a method that generates a matrix using Lists. The rows will have ascendin
 First row will have size 1, second size 2 and so one. Give the number of rows as a parameter to the method. 
 i.e. for a matrix of size 3, the matrix should look like this:
 
-0
-0 0 
-0 0 0 
+0<br/>
+0 0<br/>   
+0 0 0<br/>
 
 ```java
  public static void main(String[] args) {
@@ -99,9 +101,8 @@ i.e. for a matrix of size 3, the matrix should look like this:
         }
         return matrix;
     }
+
 ```
-
-
 
 ## Homework
 1. Implement a Java program that interleaves 2 lists in a third list.
