@@ -10,6 +10,99 @@
 
 <GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vSr6F6309N3wBgzfe9wGyP-vbW7q794IycXIBDTG0yUwONrLYB3Z3S0EoDnv3-B4D0vOqb8pFLU6Zgp/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
+## Exercises
+
+### Exercise 1
+Build a train using ArrayList and LinkedList. Create an ArrayList that holds the waggons, then create a LinkedList that contains the waggons and has also a locomotive. Print the train in the console.
+
+```java
+public static void main(String[] args) {
+        ArrayList<String> waggons = new ArrayList<String>(Arrays.asList("wagon1", "wagon2", "wagon3"));
+
+        LinkedList<String> train = new LinkedList<String>(waggons);
+
+        train.addFirst("locomotive");
+
+        for (String node : train) {
+            System.out.print(node + " ");
+        }
+```
+
+### Exercise 2
+Write a method that returns the Fibonacci sequence. The size of the sequence to be generated should be given as a parameter.
+```java
+   public static ArrayList<Integer> fibonacci(int numberOfItems) {
+        ArrayList<Integer> fibonacci = new ArrayList<>(Arrays.asList(1,1));
+
+        for (int i = 2; i < numberOfItems; i++) {
+            fibonacci.add(fibonacci.get(i - 1) + fibonacci.get(i - 2));
+        }
+
+        return fibonacci;
+    }
+```
+
+
+### Exercise 3
+Create a method that checks if 2 lists have the same items.
+If the 2 lists have the same items, print in the console “The lists are identical” otherwise print “The lists are different”.
+```java
+    public static boolean areListsIdentical(ArrayList<String> list1, ArrayList<String> list2) {
+        if (list1.size() != list2.size()) {
+            return false;
+        }
+        
+        if (!list1.containsAll(list2)) {
+            return false;
+        }
+
+        return true;
+    }
+```
+
+### Exercise 4
+Create a method that generates a matrix using Lists. The rows will have ascending sizes.
+First row will have size 1, second size 2 and so one. Give the number of rows as a parameter to the method. 
+i.e. for a matrix of size 3, the matrix should look like this:
+
+0
+0 0 
+0 0 0 
+
+```java
+ public static void main(String[] args) {
+        ArrayList<ArrayList<Integer>> matrix = generateMatrix(5);
+
+        //iterate trough the rows
+        for (int i = 0; i < matrix.size(); i++) {
+            //get row one by one at position i
+            ArrayList<Integer> row = matrix.get(i);
+            // iterate trough the items of the row (columns) and print
+            for (int j = 0; j < row.size(); j++) {
+                System.out.print(row.get(j) + " ");
+            }
+            System.out.println();
+        }
+
+    }
+
+    public static ArrayList<ArrayList<Integer>> generateMatrix(int size) {
+        ArrayList<ArrayList<Integer>> matrix = new ArrayList<>(size);
+        //iterate trough the number of rows
+        for (int i = 0; i < size; i++) {
+            // create a new ArrayList for each row, with i number of items
+            ArrayList<Integer> row = new ArrayList<>(i);
+            for (int j = 0; j <= i; j++) {
+                row.add(0);
+            }
+            matrix.add(row);
+        }
+        return matrix;
+    }
+```
+
+
+
 ## Homework
 1. Implement a Java program that interleaves 2 lists in a third list.
 For example, given listA = {1,2,3} and listB={4,5,6}, listC should be listC={1,4,2,5,3,6}
