@@ -15,7 +15,6 @@
 ### Exercise 1
 Build a train using ArrayList and LinkedList. Create an ArrayList that holds the waggons, then create a LinkedList that contains the waggons and has also a locomotive. Print the train in the console.
 
-<Solution>
 ```java
 public static void main(String[] args) {
         ArrayList<String> waggons = new ArrayList<String>(Arrays.asList("wagon1", "wagon2", "wagon3"));
@@ -27,12 +26,12 @@ public static void main(String[] args) {
         for (String node : train) {
             System.out.print(node + " ");
         }
+}
 ```
 
 ### Exercise 2
 Write a method that returns the Fibonacci sequence. The size of the sequence to be generated should be given as a parameter.
 
-<Solution>
 ```java
    public static ArrayList<Integer> getFibonacciSequence(int numberOfItems) {
         ArrayList<Integer> fibonacci = new ArrayList<>(Arrays.asList(1,1));
@@ -44,14 +43,11 @@ Write a method that returns the Fibonacci sequence. The size of the sequence to 
         return fibonacci;
     }
 ```
-</Solution>
-
 
 ### Exercise 3
 Create a method that checks if 2 lists have the same items.
 If the 2 lists have the same items, print in the console “The lists are identical” otherwise print “The lists are different”.
 
-<Solution>
 ```java
     public static boolean areListsIdentical(ArrayList<String> list1, ArrayList<String> list2) {
         if (list1.size() != list2.size()) {
@@ -65,7 +61,6 @@ If the 2 lists have the same items, print in the console “The lists are identi
         return true;
     }
 ```
-</Solution>
 
 ### Exercise 4
 Create a method that generates a matrix using Lists. The rows will have ascending sizes.
@@ -76,7 +71,6 @@ i.e. for a matrix of size 3, the matrix should look like this:
 0 0 
 0 0 0 
 
-<Solution>
 ```java
  public static void main(String[] args) {
         ArrayList<ArrayList<Integer>> matrix = generateMatrix(5);
@@ -109,8 +103,6 @@ i.e. for a matrix of size 3, the matrix should look like this:
     }
 
 ```
-</Solution>
-
 
 ## Homework
 1. Implement a Java program that interleaves 2 lists in a third list.
