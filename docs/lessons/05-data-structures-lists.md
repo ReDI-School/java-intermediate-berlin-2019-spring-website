@@ -67,9 +67,9 @@ Create a method that generates a matrix using Lists. The rows will have ascendin
 First row will have size 1, second size 2 and so one. Give the number of rows as a parameter to the method. 
 i.e. for a matrix of size 3, the matrix should look like this:
 
-0
-0 0 
-0 0 0 
+0<br/>
+0 0 <br/>   
+0 0 0 <br/>
 
 ```java
  public static void main(String[] args) {
