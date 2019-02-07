@@ -143,4 +143,7 @@ If you did OOP before, you can try to do some exercises with an actual implement
 - [📖 Linked List | Set 1 (Introduction)](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
 - [📖 Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
 - [📖 Circular Linked List | Set 1 (Introduction and Applications)](https://www.geeksforgeeks.org/circular-linked-list/)
+- [W3 Schools Exercises ArrayLists Exercises](https://www.w3resource.com/java-exercises/collection/index.php#arraylist)
+- [W3 Schools Exercises LinkedList Exercises](https://www.w3resource.com/java-exercises/collection/index.php#linkedlist)
+
 
