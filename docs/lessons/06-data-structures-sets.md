@@ -1,4 +1,4 @@
-# 05 - Data Structures: Sets
+# 06 - Data Structures: Sets
 
 <Teacher name="Anca"></Teacher>
 
@@ -25,13 +25,25 @@ int randomNumber = r.nextInt(50);
 
 ## Slides
 
-**TBD**
+<GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vQ6Ln4aVAC3SEQDE6ZzwnCqSI7pRsVoXKzFsFg8Z920jCjHvSRxxYfWcyzEvjwAaERJ6yhF0HbArHdX/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
 ## Exercises
 
 ### Exercise 1
 
+In `main` method
+1. Create a new HashSet of strings, add `banana`, `apple`, `orange`. 
+2. Print content of sets using for loop
+3. Clear the set.
+4. Add one more element `grapes`.
+5. Check if set is empty, and if it’s not empty print “I am not empty!”.
+What is the order of elements after adding them to HashSet?
+
+
+### Exercise 2
 Write a static method `randomSet` that will return an `HashSet` containing collection of `n` unique random numbers in range 0-100.
+In the main method iterate over the returned Set and print each number multiplied by 2.
+
 
 ```java
 
@@ -42,7 +54,12 @@ HashSet<String> randomSet(int n) {
 
 Where `n` is a number of random elements in set.
 
-### Exercise 1
+### Exercise 3
+
+Change data type in previous exercise from HashSet to TreeSet. 
+What is the difference?
+
+### Exercise 4
 
 Write a static method `intersection` that will return an intersection of two sets given by parameters. **Note** - sets given by parameters may not be modified.
 
@@ -52,7 +69,7 @@ Set<String> intersection(Set<String> x, Set<String> y) {
     ...
 }
 ```
-### Exercise 2
+### Exercise 5
 
 Write a static method `union` that will return an union of two sets given by parameters. **Note** - sets given by parameters may not be modified.
 
@@ -63,9 +80,35 @@ Set<String> union(Set<String> x, Set<String> y) {
 }
 ```
 
-## Exercise 3
+### Exercise 6
 
-How to create a `TreeSet` that will maintain integer number from highest to lowest number.
+Write a static method `difference` that will return a difference between two sets given by parameters. 
+**Note** - sets given by parameters may not be modified.
+
+```java
+
+Set<String> difference(Set<String> x, Set<String> y) {
+    ...
+}
+```
+
+### Exercise 7
+
+Write a static method `symetricDifference` that will return the symetric difference between two sets given by parameters. 
+**Note** - sets given by parameters may not be modified.
+
+```java
+
+Set<String> symetricDifference(Set<String> x, Set<String> y) {
+    ...
+}
+```
+
+### Exercise 8
+
+Create a TreeSet containing integers that will maintain descending order of numbers.
+Hint: Look at alternative TreeSet constructors.
+
 
 ## Additional Resources
 
