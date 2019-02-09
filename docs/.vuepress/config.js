@@ -9,7 +9,8 @@ module.exports = {
       '/lessons/03-string-operations',
       '/lessons/04-data-structures-arrays',
       '/lessons/05-data-structures-lists',
-      '/lessons/06-data-structures-sets'
+      '/lessons/06-data-structures-sets',
+      '/lessons/07-data-structures-maps'
     ],
     '/teachers': [
       '/teachers/for-teachers',
