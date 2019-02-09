@@ -1,4 +1,4 @@
-# 06 - Data Structures: Maps
+# 07 - Data Structures: Maps
 
 <Teacher name="Maciej"></Teacher>
 
