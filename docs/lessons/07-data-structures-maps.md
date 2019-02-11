@@ -51,7 +51,7 @@ System.out.println("Adding took: " + (end - now));
 
 ## Recap Exercise
 
-Measure what if `LinkedList` or `ArrayList` is faster for:
+Measure if `LinkedList` or `ArrayList` is faster for:
 
 - adding 1000000 numbers to a List
 - getting an item from the middle of this list
