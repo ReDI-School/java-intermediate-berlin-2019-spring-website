@@ -97,21 +97,13 @@ Write a method program that contains a pizza menu - we are interested only in pi
 
 ### Exercise 4
 
-Write a program that calculates average price of a second hand car based on the list of prices found on EBay:
+Write a program that calculates average price of a second hand car based on the list of prices found on EBay. Example list:
 
-```java
-Map<String, List<Integer>> carPrices = new HashMap<>();
-carPrices.put("toyota", Arrays.asList(10000, 25000, 13000))
-...
-```
+- Toyota: 10000, 15000, 18000
+- BMW: 20000, 23000, 50000
+- Audi: 35000, 43000, 18000, 50000
 
-The method should return a new map where key is a car name and value is a average price:
-
-```java
-Map<String, Integer> averagePrices(Map<String, List<Integer> carPrices) {
-    ...
-}
-```
+The method should return a map where key is a car name and value is a average price.
 
 ### Exercise 5
 
