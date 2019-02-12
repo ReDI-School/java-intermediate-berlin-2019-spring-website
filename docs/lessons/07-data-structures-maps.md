@@ -154,3 +154,4 @@ Write it in a flexible way, so that we can easily add new character with their f
 ## Additional Resources
 
  - [📖 Java HashMap vs TreeMap](https://www.baeldung.com/java-treemap-vs-hashmap)
+ - [📺 How HashMap works internally](https://www.youtube.com/watch?v=CojCE-ojdGY)
