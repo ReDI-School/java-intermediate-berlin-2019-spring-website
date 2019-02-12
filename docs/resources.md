@@ -6,6 +6,7 @@
 - [🎧 Base CS Podcast](https://www.codenewbie.org/basecs)
 - [📺 Object Oriented Programming with Java Part 1 - Free Online Course](http://moocfi.github.io/courses/2013/programming-part-1/)
 - [📖 W3Schools Java Tutorial](https://www.w3schools.com/java/)
+- [📖 A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 
 ## Git
 
