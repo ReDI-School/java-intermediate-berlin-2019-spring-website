@@ -27,7 +27,52 @@ public class Application {
 ```
 We might start with something like this
 Can you figure what it does?
+```java
+package somepackage;
+public class Application {
+    public static void main(String[] args) {
+        int someNumber=Integer.parseInt(args[0]);
+        int prime;
+        String numbEnding=args[0]+"th";
+        while(someNumber-->0){
+            prime=PrimeFinder.findPrimeAfter(prime);
+        }
+        System.out.printf("The %s number prime is %s",numbEnding,prime);
+    }
+}
+```
+Here we decide that instead of implementing the prime finder algorithm by ourselves we delegate the job to another class.
+We also notice that our answers will look weird for when someNumber is 1 or 2, because `"first"` and `"second"` in English don't end with `"nd"` 
 
+```java
+package somepackage;
+public class Application {
+    public static void main(String[] args) {
+        int someNumber=Integer.parseInt(args[0]);
+        int prime=1;
+        String numbEnding=args[0];
+        switch(someNumber%10){
+           case 1:
+                numbEnding+="st";
+           break;
+           case 2:
+                numbEnding+="nd";
+            break;
+            default:
+                numbEnding+="th";
+        }
+        while(someNumber-->0){
+            prime=PrimeFinder.findPrimeAfter(prime);
+        }
+        System.out.printf("The %s number prime is %s",numbEnding,prime);
+    }
+}
+```
+In order to fix this issue of 1th and 2th appearing instead of 1st and 2nd we might have the idea to use a switch case statement.
+This fixes the problem however the code doesn't look pretty.
+
+```java
+```
 
 ## Tips
 
@@ -57,8 +102,6 @@ class Main {
 }
 ```
 
-```java
-```
 
 ## Slides
 
