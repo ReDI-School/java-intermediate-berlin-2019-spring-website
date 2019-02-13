@@ -5,7 +5,14 @@
 - [How to Run a Good Workshop](http://scottberkun.com/2013/run-a-good-workshop/)
 - [Teaching Code: A Getting Started Guide](https://www.shopify.com/partners/blog/teaching-coding-a-getting-started-guide)
 
+## Discussions
+
+- [Music during lectures: Will students learn better?](https://www.sciencedirect.com/science/article/pii/S1041608011001762)
+- [Lectures Aren't Just Boring, They're Ineffective, Too.](https://www.reddit.com/r/science/comments/25g077/lectures_arent_just_boring_theyre_ineffective_too/)
+- [Where Do the Failed 0.1% Go? (2015)](https://news.ycombinator.com/item?id=13145853) 
+
 ## 🎧 Podcasts 
+
 
 - [Freelancers Show - Training](https://devchat.tv/freelancers/197-fs-training/)
 - [Freelancers Show - Building Better Training Exercises](https://devchat.tv/freelancers/253-fs-building-better-training-exercises/)
