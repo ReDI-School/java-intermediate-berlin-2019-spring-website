@@ -42,7 +42,7 @@ class Main {
 ## Slides
 
 
-<GoogleSlides src="https://docs.google.com/presentation/d/e/1U1_ie1WHDHufCTCN_r09Ke0fCG5JaFlywYD8yq4trXI/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
+<GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vT_8aVeYyiETKm_fYJ2uAEp5plTgtt09Z8l9LyeFoDR8ztjCQFNJ75S0-f-CAEaJRb_S0DXN_NOQdWg/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
 ## Exercises
 
