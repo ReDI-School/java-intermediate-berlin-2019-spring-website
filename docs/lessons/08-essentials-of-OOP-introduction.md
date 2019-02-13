@@ -186,5 +186,9 @@ Now we have a fully designed program that decides on the macro level how it inte
 
 
 ## Additional Resources
-
- - [📖 Java HashMap vs TreeMap](https://www.baeldung.com/java-treemap-vs-hashmap)
+- [Access Modifiers intro](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+- [Java Pocket chapter 8](https://www.oreilly.com/library/view/java-8-pocket/9781491901083/ch08.html)
+- [Medium class vs abstract class](https://medium.com/heuristics/interface-vs-abstract-class-vs-concrete-class-196f20c3af9a)
+- [Primitive Types](https://en.wikibooks.org/wiki/Java_Programming/Primitive_Types)
+- [Java Interfaces](https://www.guru99.com/java-interface.html)
+- [Software Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
