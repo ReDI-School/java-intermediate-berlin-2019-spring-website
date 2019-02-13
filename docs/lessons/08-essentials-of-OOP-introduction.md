@@ -41,7 +41,8 @@ class Main {
 
 ## Slides
 
-<GoogleSlides src="https://docs.google.com/presentation/d/1U1_ie1WHDHufCTCN_r09Ke0fCG5JaFlywYD8yq4trXI/edit?usp=sharing"></GoogleSlides>
+
+<GoogleSlides src="https://docs.google.com/presentation/d/e/1U1_ie1WHDHufCTCN_r09Ke0fCG5JaFlywYD8yq4trXI/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
 ## Exercises
 
