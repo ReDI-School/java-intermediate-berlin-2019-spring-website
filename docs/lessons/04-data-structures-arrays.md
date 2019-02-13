@@ -20,4 +20,4 @@
 
 ## Additional Resources
 
--https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
+- [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)
