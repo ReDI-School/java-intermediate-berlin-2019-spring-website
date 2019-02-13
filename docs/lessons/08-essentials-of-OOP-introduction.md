@@ -10,34 +10,6 @@
 - Have a better appreciation for the Java Programming language, on what it attempts to accomplish.
 - Use Google to your advantage
 
-## Tips
-
-### Class Properties
-
-Class can have properties:
-
-```java
-class Main {
-    private static String name = "Rachel";
-}
-```
-
-Properties can be accessed from each method of the class:
-
-```java
-class Main {
-    private static String name = "Rachel";
-
-    static void foo() {
-        System.out.println(name);
-    }
-
-    static void bar() {
-        name = "Monica";
-    }
-}
-```
-
 
 ## Slides
 
