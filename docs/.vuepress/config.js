@@ -10,7 +10,8 @@ module.exports = {
       '/lessons/04-data-structures-arrays',
       '/lessons/05-data-structures-lists',
       '/lessons/06-data-structures-sets',
-      '/lessons/07-data-structures-maps'
+      '/lessons/07-data-structures-maps',
+      '/lessons/08-essentials-of-OOP-introduction'
     ],
     '/teachers': [
       '/teachers/for-teachers',
