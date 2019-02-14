@@ -4,6 +4,7 @@
 
 - [How to Run a Good Workshop](http://scottberkun.com/2013/run-a-good-workshop/)
 - [Teaching Code: A Getting Started Guide](https://www.shopify.com/partners/blog/teaching-coding-a-getting-started-guide)
+- [How I Became an Unfair Teacher](https://www.theatlantic.com/education/archive/2014/06/how-i-became-an-unfair-teacher/371908/)
 
 ## Discussions
 
