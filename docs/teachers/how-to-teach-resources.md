@@ -20,3 +20,7 @@
 ## 📰 Newsletters
 
 - [Trainer Weekly](https://lerner.co.il/trainer-weekly/)
+
+## Videos
+
+- [Time Management for Teachers](https://www.youtube.com/watch?v=SuhGwaZiNIk)
