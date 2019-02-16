@@ -1,6 +1,6 @@
-# 09 - OOP - Constuctors
+# 09 - OOP - Classes & Objects
 
-<Teacher name="Juan"></Teacher>
+<Teacher name="Anca"></Teacher>
 
 ## Goals
 - Learn the difference berween a Class and an Object
@@ -37,4 +37,4 @@ You need to load your truck with packages. Design the `Package` class. The packa
 
 
 ## Additional Resources
-- [OOP Ilustrated](https://www.youtube.com/watch?v=CqlM7JjnAi4)
+- [📺 OOP Ilustrated](https://www.youtube.com/watch?v=CqlM7JjnAi4)
