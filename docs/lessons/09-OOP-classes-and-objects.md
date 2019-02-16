@@ -31,7 +31,7 @@ You need drive the truck to the storehouse and pick up some packages to be deliv
 Use them to drive the truck.
 
 
-### Excercise 3 (Based on Exercise 2)
+### Excercise 4
 You need to load your truck with packages. Design the `Package` class. The package should know the details of the sender and be able to print them. Add 3 packages to your truck and print where you need to deliver them. 
 
 
