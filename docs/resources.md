@@ -32,8 +32,6 @@
 - [📖 W3Schools Java Tutorial](https://www.w3schools.com/java/)
 - [📖 A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 - [📺 Crash course CompSci](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-- [Base CS - Exploring the basics of computer science, every Monday, for a year.](https://medium.com/basecs)
-- [Base CS Podcast](https://www.codenewbie.org/basecs)
 - [📺 in one lesson](https://www.youtube.com/user/InOneLesson/videos)
 - [📺 3blue1brown](https://www.youtube.com/watch?v=aircAruvnKk)
 - [📺 Computerphile](https://www.youtube.com/user/Computerphile/videos)
