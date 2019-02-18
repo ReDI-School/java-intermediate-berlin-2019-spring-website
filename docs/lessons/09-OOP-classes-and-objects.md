@@ -13,6 +13,42 @@
 
 <GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vRBvkOhBpCT2nbPCteJ_rtZyiSM7aG2DHzWXGyBJhC_FIn13jswWMMYNysgkWHEo3gIL2QM5b8J6GDm/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
+### User sample
+
+```java
+public class User {
+
+    public String id;
+    public String name;
+    private String password;
+    public String email;
+
+    public User(String id, String name, String password, String email) {
+        this.id = id;
+        this.name = name;
+        this.password = password;
+        this.email = email;
+    }
+
+    public void changePassword(String newPassword) {
+        this.password = newPassword;
+    }
+```
+
+```java
+public class Application {
+
+    public static void main(String[] args) {
+        User user = new User("id", "Anca", "123", "anca.etodirica@gmail.com");
+
+        System.out.println("Email address is " + user.email);
+
+        user.changePassword("0000");
+
+    }
+}
+```
+
 ## Exercises
 
 ### Excercise 1
