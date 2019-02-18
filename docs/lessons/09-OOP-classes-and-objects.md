@@ -33,7 +33,7 @@ Create different robots using all the constructors and let them introduce themse
 You work for DHL and you have to drive a truck full of packets. Design the Truck into a java class then create the truck. Add specific truck attributes to the Truck class.
 
 ### Excercise 4
-You need to drive the truck to the storehouse and pick up some packets to be delivered. Create a `startTruck()` `stopTruck()` method and an `accelerate()` method.  Every time you accelerate, your speed increases with 10km in 10s. Use them to drive the truck.
+You need to drive the truck to the storehouse and pick up some packets to be delivered. Create a `startTruck()` `stopTruck()` method and an `accelerate()` method.  Every time you accelerate, your speed increases with 10km. Use them to drive the truck.
 
 ### Excercise 5
 You need to load your truck with packets. Design the `Packet` class. The packet should know the details of the sender and be able to print them. Add 3 packets to your truck and print where you need to deliver them. 
@@ -51,6 +51,11 @@ You want to keep track of your transactions as well, to see where your money is 
 - withraw some money from your account. 
 - after every operation, print how much money you still have in your account.
 
+### Exercise 7
+You are working in a shop and you need to make an order to get new supplies. In your order, you need to add multiple products. Design the Java classes in order to be able to create the order for the products you need, then create the order and add the products to the order. 
+
+### Exercise 8
+You are a librarian and you just received some books that need to be added on the Library's bookshelves. You need to sort them by Author name and Author country of origin. Design the classes to create the Library that contain Books. Every book has just one Author. Add some books to the Library and print them sorted by the criterias already mentioned.
 
 ## Additional Resources
 - [📺 OOP Ilustrated](https://www.youtube.com/watch?v=CqlM7JjnAi4)
