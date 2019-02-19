@@ -65,6 +65,56 @@ Add different types of constructors for the `Robot` class
 - Constructor with 2 paramters - the name and eye color.
 Create different robots using all the constructors and let them introduce themselves. Observe what will be the values of the attributes when using different constructors.
 
+<Solution>
+```java
+public class Robot {
+
+    public String name;
+    public int weight;
+    public String eyeColor;
+
+    public Robot() {
+
+    }
+
+    public Robot(String name) {
+        this.name = name;
+    }
+
+    public Robot(String name, int weight, String eyeColor) {
+        this.name = name;
+        this.eyeColor = eyeColor;
+        this.weight = weight;
+    }
+
+    public void introduce() {
+        System.out.println("My name is " + name + ".");
+        System.out.println("I weight " + weight + "kg.");
+        System.out.println("I have " + eyeColor + " eyes.");
+    }
+}
+```
+
+```java
+public class Application {
+
+    public static void main(String[] args) {
+        Robot rob = new Robot("Rob", 10, "green");
+        Robot bot = new Robot("Bot", 8, "black");
+
+        rob.introduce();
+        bot.introduce();
+
+        Robot robot1 = new Robot();
+        robot1.introduce();
+
+        Robot robot2 = new Robot("Robot");
+        robot2.introduce();
+    }
+}
+```
+</Solution>
+
 ### Excercise 3
 You work for DHL and you have to drive a truck full of packets. Design the Truck into a java class then create the truck. Add specific truck attributes to the Truck class.
 
@@ -73,6 +123,141 @@ You need to drive the truck to the storehouse and pick up some packets to be del
 
 ### Excercise 5
 You need to load your truck with packets. Design the `Packet` class. The packet should know the details of the sender and be able to print them. Add 3 packets to your truck and print where you need to deliver them. 
+
+<Solution>
+```java
+public class Truck {
+
+    public String name;
+    public int currentSpeed;
+    public int maxSpeed;
+    public int currentFuel;
+    public int maxFuel;
+    public boolean status;
+    public String color;
+    public List<Packet> packets;
+
+    public Truck(String name,
+                 int currentSpeed,
+                 int maxSpeed,
+                 int currentFuel,
+                 int maxFuel,
+                 boolean status,
+                 String color) {
+        this.name = name;
+        this.currentSpeed = currentSpeed;
+        this.maxSpeed = maxSpeed;
+        this.currentFuel = currentFuel;
+        this.maxFuel = maxFuel;
+        this.status = status;
+        this.color = color;
+        this.packets = new ArrayList<Packet>();
+    }
+
+    public void startTruck() {
+        System.out.println("Truck is started");
+        status = true;
+        currentSpeed = 0;
+    }
+
+    public void stopTruck() {
+        System.out.println("Truck is stopped");
+        status = false;
+        currentSpeed = 0;
+    }
+
+    public void accelerate() {
+        if (currentSpeed < 100) {
+            currentSpeed += 10;
+        }
+        System.out.println("Current speed is " + currentSpeed);
+    }
+
+    public void addPacket(Packet packet) {
+        packets.add(packet);
+    }
+}
+```
+
+```java
+public class Packet {
+
+    public int weight;
+    public String size;
+    public Address sender;
+    public Address receiver;
+
+    public Packet(int weight, String size, Address sender, Address receiver) {
+        this.weight = weight;
+        this.size = size;
+        this.sender = sender;
+        this.receiver = receiver;
+    }
+}
+```
+
+```java
+public class Address {
+
+    public String name;
+    public String street;
+    public int number;
+    public int postalCode;
+    public String city;
+    public String country;
+
+    public Address(String name, String street, int number, int postalCode, String city, String country) {
+        this.name = name;
+        this.street = street;
+        this.number = number;
+        this.postalCode = postalCode;
+        this.city = city;
+        this.country = country;
+    }
+
+    public void getAddress() {
+        System.out.println(name);
+        System.out.println(street + " " + number);
+        System.out.println(postalCode);
+        System.out.println(city);
+        System.out.println(country);
+    }
+}
+```
+
+```java
+public class Application {
+
+    public static void main(String[] args) {
+        Truck truck = new Truck("Volvo", 30, 100, 15, 100, true, "red");
+
+        truck.startTruck();
+        truck.accelerate();
+        truck.accelerate();
+        truck.accelerate();
+        truck.accelerate();
+        truck.accelerate();
+        truck.accelerate();
+        truck.accelerate();
+        truck.accelerate();
+        truck.accelerate();
+        truck.accelerate();
+        truck.accelerate();
+        truck.stopTruck();
+
+        Packet packet1 = new Packet(2, "S",
+                                    new Address("Name1", "Street1", 1, 1234, "Berlin", "Germany"),
+                                    new Address("Name2", "Street2", 2, 456, "Berlin", "GERMANY"));
+        truck.addPacket(packet1);
+
+        for (int i = 0; i < truck.packets.size(); i++) {
+            truck.packets.get(i).receiver.getAddress();
+        }
+    }
+}
+```
+
+</Solution>
 
 ## Homework 
 
