@@ -11,8 +11,8 @@ module.exports = {
       '/lessons/05-data-structures-lists',
       '/lessons/06-data-structures-sets',
       '/lessons/07-data-structures-maps',
-      '/lessons/08-essentials-of-OOP-introduction',
-      '/lessons/09-OOP-classes-and-objects'
+      '/lessons/08-essentials-of-oop-introduction',
+      '/lessons/09-oop-classes-and-objects'
     ],
     '/teachers': [
       '/teachers/for-teachers',
