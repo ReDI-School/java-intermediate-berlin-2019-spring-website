@@ -2,25 +2,16 @@
     <div>
         <br />
         <a href="#" v-on:click="toggle">😎 Toggle Solution</a>
-        <transition name="fade">
-            <div v-if="isShowing">
-                <slot></slot>
-            </div>
-        </transition>
+        <VueSlideToggle :open="isShowing" tag="section" :duration="600">
+            <slot></slot>
+        </VueSlideToggle>
     </div>
 </template>
 
-<style>
-.fade-enter-active, .fade-leave-active {
-  transition: opacity 0.5s ease-out;
-}
-
-.fade-enter, .fade-leave-to {
-  opacity: 0;
-}
-</style>
-
 <script>
+import {VueSlideToggle} from 'vue-slide-toggle'
+
+
 export default {
   data: function() {
       return {
@@ -32,6 +23,9 @@ export default {
           this.isShowing = !this.isShowing;
           event.preventDefault();
       }
+  },
+  components: {
+    VueSlideToggle
   }
 }
 </script>
