@@ -278,5 +278,35 @@ You are working in a shop and you need to make an order to get new supplies. In 
 ### Exercise 8
 You are a librarian and you just received some books that need to be added on the Library's bookshelves. You need to sort them by Author name and Author country of origin. Design the classes to create the Library that contain Books. Every book has just one Author. Add some books to the Library and print them sorted by the criterias already mentioned.
 
+### Exercise 9
+You want to find on which planet we will be able to move as a race when the Earth will be destroyed. 
+- Create a class called `Planet`. Add `color`, `size` and `sustainLife` fields as attributes for this class. The `sustainLife` field is a boolean that is true if the planet can support life and false otherwise. 
+- Create a constructor with all the parameters.
+- Create a method that prints in the console all the characteristics of a Planet.
+- In the main method of a different class create 3 planets and print in the console the characteristics of the planets that can sustain life.
+
+### Exercise 10
+You are looking for a new apartment in Berlin. 
+
+- create a class `Address` that will have the street, number, zipCode and city as attributes
+- create a constructor that have as parameters all the attributes of the Address. 
+
+- Create a class `Apartment` that will contain the following attributes: numberOfRooms, numberOfBathrooms, hasTerace, hasKeller, surface, isAvailable, address.
+- The attributes hasTerrace, hasKeller and isAvailable are boolean values
+- Create a constructor that have as parameters all the attributes of the apartment.
+- Create a method that prints all the attributes of the appartment, including the address. 
+- In the main method of a different class create 3 apartments and print in the console the characteristics of the apartment
+
+### Exercise 11
+You are in vacation and you want to travel with the train. To be sure you will not miss any trains for the trips you have scheduled, you need to have with you the train Schedule. 
+- Create a class called `ScheduleDetails` that will contain the following attributes: typeOfTrain, numberOfWagons, departureCity, departureTime, arrivalCity, arrivalTime.
+- create a constructor that has as parameters all the attribues
+- In the main method of a different class create a List of `ScheduleDetails` objects, called `schedule`.
+- Create some `ScheduleDetails` objects and add them to the list.
+- Iterate trough the list and print in the console the trains that you can take after 17:00.
+- Iterate trough the list and print in the console the trains that you can take from Berlin.
+
+
 ## Additional Resources
 - [📺 OOP Ilustrated](https://www.youtube.com/watch?v=CqlM7JjnAi4)
+- [Class Design](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Class%20Design/classes.html)
