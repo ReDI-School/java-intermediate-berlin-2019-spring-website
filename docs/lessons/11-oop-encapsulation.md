@@ -76,7 +76,7 @@ Design above solution using OOP concepts you are familiar with: classes, objects
 
 In the `Main` class create a new todo list, add todo items until you reach the maximum. Complete & uncomplete few of todo items.
 
-### Exercise 3 - Animals
+### Exercise 4 - Animals
 
 Design classes representing animals: Cat, Dog, Squirell. Both should have a method `String describe()` that returns a string like "I am a Cat, I was created at ..."
 
