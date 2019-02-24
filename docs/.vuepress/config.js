@@ -13,7 +13,8 @@ module.exports = {
       '/lessons/07-data-structures-maps',
       '/lessons/08-essentials-of-oop-introduction',
       '/lessons/09-oop-classes-and-objects',
-      '/lessons/10-method-overloading-overriding'
+      '/lessons/10-method-overloading-overriding',
+      '/lessons/11-oop-encapsulation'
     ],
     '/teachers': [
       '/teachers/for-teachers',
