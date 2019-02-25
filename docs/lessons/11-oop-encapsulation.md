@@ -52,6 +52,73 @@ public class MyApp {
 }
 ```
 
+<Solution>
+```java
+package com.redi;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+class Plane {
+    private List<String> passengers;
+    private int maxPassengers;
+    private Date lastTimeTookOf;
+    private Date lastTimeLanded;
+
+    public Plane(int maxPassengers) {
+        this.maxPassengers = maxPassengers;
+        this.passengers = new ArrayList<>();
+    }
+
+    public void onboard(String passenger) {
+        this.passengers.add(passenger);
+    }
+
+    public void takeOff() {
+        this.lastTimeTookOf = new Date();
+    }
+
+    public void land() {
+        this.lastTimeLanded = new Date();
+        this.passengers.clear();
+    }
+
+    public Date getLastTimeLanded() {
+        return lastTimeLanded;
+    }
+
+    public List<String> getPassengers() {
+        return passengers;
+    }
+}
+```
+
+```java
+package com.redi;
+
+public class Main {
+
+    public static void main(String[] args) throws InterruptedException {
+        // there is a plane with max 10 passengers
+        Plane plane = new Plane(10);
+        // add passengers on the list
+        plane.onboard("John");
+        plane.onboard("Steve");
+        plane.onboard("Anna");
+        // plane takes off
+        plane.takeOff();
+        // flying.....
+        Thread.sleep(5000l);
+        // plane has landed
+        plane.land();
+
+        System.out.println(plane.getLastTimeLanded());
+    }
+}
+```
+</Solution>
+
 ### Exercise 2 - Kindergarten
 
 Design classes used for Kindergarten application:
