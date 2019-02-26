@@ -15,6 +15,7 @@ module.exports = {
       '/lessons/09-oop-classes-and-objects',
       '/lessons/10-method-overloading-overriding',
       '/lessons/11-oop-encapsulation'
+      '/lessons/12-oop-Inheritance'
     ],
     '/teachers': [
       '/teachers/for-teachers',
