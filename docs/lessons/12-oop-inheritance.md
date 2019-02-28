@@ -8,7 +8,7 @@
 - Learn about Abstract Classes
 
 ## Slides
-<GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vTEKM9HN4flDOdUbTjWRK8jhQKaNbJqhd7rmDZRasNmj3yEJdcXQIL5cQUtjuImh67P-NQJ6uCuRXS1/pub?start=false&loop=false&delayms=3000&slide=id.p"></GoogleSlides>
+<GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vTEKM9HN4flDOdUbTjWRK8jhQKaNbJqhd7rmDZRasNmj3yEJdcXQIL5cQUtjuImh67P-NQJ6uCuRXS1/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
 
 ## Additional Resources
