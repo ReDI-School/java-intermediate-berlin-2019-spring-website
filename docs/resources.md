@@ -64,6 +64,7 @@
 - [🏀 LeetCode](https://leetcode.com/)
 - [🏀 HackerRank](https://www.hackerrank.com/)
 - [🏀 Project Euler](https://projecteuler.net/)
+- [Hyperskill](https://hi.hyperskill.org)
 
 ## Ideas
 
