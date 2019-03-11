@@ -16,7 +16,8 @@ module.exports = {
       '/lessons/10-method-overloading-overriding',
       '/lessons/11-oop-encapsulation',
       '/lessons/12-oop-inheritance',
-      '/lessons/13-oop-abstract-interface-polymorphism'
+      '/lessons/13-oop-abstract-interface-polymorphism',
+      '/lessons/15-exception'
     ],
     '/teachers': [
       '/teachers/for-teachers',
