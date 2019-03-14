@@ -17,7 +17,8 @@ module.exports = {
       '/lessons/11-oop-encapsulation',
       '/lessons/12-oop-inheritance',
       '/lessons/13-oop-abstract-interface-polymorphism',
-      '/lessons/15-exception'
+      '/lessons/15-exception',
+      '/lessons/16-exception2'
     ],
     '/teachers': [
       '/teachers/for-teachers',
