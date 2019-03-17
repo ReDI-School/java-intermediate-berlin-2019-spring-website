@@ -12,6 +12,6 @@
 
 ## Additional Resources
 
-- https://www.tutorialspoint.com/java/java_exceptions.htm
-- https://www.baeldung.com/java-exceptions
-- https://programming.guide/java/list-of-java-exceptions.html
+- [https://www.tutorialspoint.com/java/java_exceptions.htm](https://www.tutorialspoint.com/java/java_exceptions.htm)
+- [https://www.baeldung.com/java-exceptions](https://www.baeldung.com/java-exceptions)
+- [https://programming.guide/java/list-of-java-exceptions.html](https://programming.guide/java/list-of-java-exceptions.html)
