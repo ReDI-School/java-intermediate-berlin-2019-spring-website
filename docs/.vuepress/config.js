@@ -18,7 +18,8 @@ module.exports = {
       '/lessons/12-oop-inheritance',
       '/lessons/13-oop-abstract-interface-polymorphism',
       '/lessons/15-exception',
-      '/lessons/16-exception2'
+      '/lessons/16-exception2',
+      '/lessons/17-libraries'
     ],
     '/teachers': [
       '/teachers/for-teachers',
