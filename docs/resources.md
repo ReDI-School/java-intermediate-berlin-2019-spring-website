@@ -50,6 +50,9 @@
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [Java Puzzlers book](http://www.javapuzzlers.com/)
 
+## Maven 
+
+- [Maven Repository](https://mvnrepository.com/)
 
 ## Java Documentation and Reference
 - [📖 JDK documentation](https://docs.oracle.com/en/java/javase/11/)
@@ -57,6 +60,7 @@
 - [📖 Java API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 - [📖 Java GenericsFAQ](http://www.angelikalanger.com/GenericsFAQ/FAQSections/)
 - [📖 Java™ in a Nutshell: A Deskop Quick Reference.](https://docstore.mik.ua/orelly/java-ent/jnut/index.htm)
+- [📖 Apache Commons](https://commons.apache.org/)
 
 ## Exercises
 
