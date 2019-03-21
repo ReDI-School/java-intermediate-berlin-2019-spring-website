@@ -19,7 +19,8 @@ module.exports = {
       '/lessons/13-oop-abstract-interface-polymorphism',
       '/lessons/15-exception',
       '/lessons/16-exception2',
-      '/lessons/17-libraries'
+      '/lessons/17-libraries',
+      '/lessons/18-file-io-and-format'
     ],
     '/teachers': [
       '/teachers/for-teachers',
