@@ -6,6 +6,7 @@
 - [Teaching Code: A Getting Started Guide](https://www.shopify.com/partners/blog/teaching-coding-a-getting-started-guide)
 - [How I Became an Unfair Teacher](https://www.theatlantic.com/education/archive/2014/06/how-i-became-an-unfair-teacher/371908/)
 - [Crystal and Fluid Intelligence](https://www.psychologytoday.com/us/blog/the-athletes-way/201312/too-much-crystallized-thinking-lowers-fluid-intelligence)
+- [Flipped Teaching](http://flr.flglobal.org/i-quit/)
 ## Discussions
 
 - [Music during lectures: Will students learn better?](https://www.sciencedirect.com/science/article/pii/S1041608011001762)
