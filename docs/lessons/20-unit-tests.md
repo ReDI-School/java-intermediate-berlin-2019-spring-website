@@ -7,7 +7,7 @@
 - Deep dive into unit tests - what is the purpose of unit tests
 - Learn about libraries that helps you write unit tests
 
-##Libraries
+## Libraries
 - [JUnit5](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api)
 - [AssertJ](https://mvnrepository.com/artifact/org.assertj/assertj-core/3.12.2)
 
@@ -45,10 +45,10 @@ public class Operations {
 
 
 ### Exercise 2
-Given the following program with failing tests, implement the methods to make the test pass. The tests should act like requirements for what your methods need to do. 
+Given the following program with failing tests, implement the methods to make the tests pass. The tests should act like requirements for what your methods need to do. 
 Clone the code from this repository 
 
-https://github.com/AncaTodirica/ReDi-unitTesting
+[Gitthub repo](https://github.com/AncaTodirica/ReDi-unitTesting)
 
 ### Exercise 3
 Given exercise 2 with passing tests, modify the tests to use [AssertJ](https://mvnrepository.com/artifact/org.assertj/assertj-core/3.12.2) library
