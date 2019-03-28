@@ -20,7 +20,8 @@ module.exports = {
       '/lessons/15-exception',
       '/lessons/16-exception2',
       '/lessons/17-libraries',
-      '/lessons/18-file-io-and-format'
+      '/lessons/18-file-io-and-format',
+      '/lessons/20-unit-tests'
     ],
     '/teachers': [
       '/teachers/for-teachers',
