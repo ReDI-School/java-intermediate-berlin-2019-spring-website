@@ -53,10 +53,16 @@ Clone the code from this repository
 ### Exercise 3
 Given exercise 2 with passing tests, modify the tests to use [AssertJ](https://mvnrepository.com/artifact/org.assertj/assertj-core/3.12.2) library
 
+### Homework
+Given the previous exercises, add an expiration date to the products. Modify the inventory method to return only the products which are not expired. Add tests to make sure that you do not return expired products. Use AssertJ library in your test.  
+
 
 ## Additional Resources
 
- - [Junit Tutorial](https://www.tutorialspoint.com/junit/index.htm)
- - [Junit Tutorial](https://www.guru99.com/junit-tutorial.html)
+ - [Junit Tutorial - tutorialpoint](https://www.tutorialspoint.com/junit/index.htm)
+ - [Junit Tutorial - guru99](https://www.guru99.com/junit-tutorial.html)
  - [JUnit5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
  - [Tests naming conventions](https://dzone.com/articles/7-popular-unit-test-naming)
+ - [AssertJ](http://joel-costigliola.github.io/assertj/)
+ 
+
