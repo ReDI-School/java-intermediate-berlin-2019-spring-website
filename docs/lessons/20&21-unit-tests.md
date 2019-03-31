@@ -43,6 +43,7 @@ public class Operations {
 
 ```
 
+
 ### Exercise 2
 Given the following program with failing tests, implement the methods to make the tests pass. The tests should act like requirements for what your methods need to do. 
 Clone the code from this repository 
@@ -52,13 +53,8 @@ Clone the code from this repository
 ### Exercise 3
 Given exercise 2 with passing tests, modify the tests to use [AssertJ](https://mvnrepository.com/artifact/org.assertj/assertj-core/3.12.2) library
 
-### Exercise 4
-Write a program that checks if a word or a phrase is palindrome using TDD method. A word or a phrase is a palindrom if it reads the same backward as forward.
-
-i.e. `mom`, `madam`, `reace car`, `radar`, `level`, `Was it a car or a cat I saw`
-
 ### Homework
-Given exercise 3, add an expiration date to the products. Modify the inventory method to return only the products which are not expired. Add tests to make sure that you do not return expired products. Use AssertJ library in your test.  
+Given the previous exercises, add an expiration date to the products. Modify the inventory method to return only the products which are not expired. Add tests to make sure that you do not return expired products. Use AssertJ library in your test.  
 
 
 ## Additional Resources
@@ -69,3 +65,4 @@ Given exercise 3, add an expiration date to the products. Modify the inventory m
  - [Tests naming conventions](https://dzone.com/articles/7-popular-unit-test-naming)
  - [AssertJ](http://joel-costigliola.github.io/assertj/)
  
+
