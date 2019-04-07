@@ -21,7 +21,8 @@ module.exports = {
       '/lessons/16-exception2',
       '/lessons/17-libraries',
       '/lessons/18-file-io-and-format',
-      '/lessons/20&21-unit-tests'
+      '/lessons/20&21-unit-tests',
+      '/lessons/22-algorithms'
     ],
     '/teachers': [
       '/teachers/for-teachers',
