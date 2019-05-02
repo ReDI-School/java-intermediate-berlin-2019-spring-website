@@ -22,7 +22,8 @@ module.exports = {
       '/lessons/17-libraries',
       '/lessons/18-file-io-and-format',
       '/lessons/20-21-unit-tests',
-      '/lessons/22-algorithms'
+      '/lessons/22-algorithms',
+      '/lessons/24-last-lesson'
     ],
     '/teachers': [
       '/teachers/for-teachers',
